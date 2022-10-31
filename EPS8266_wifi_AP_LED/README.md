@@ -16,7 +16,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 4. for ESP32 Based board use folowing URL:
 ``` 
-https://dl.espressif.com/dl/package_esp32_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
 6. Go to **Tools > Board > Boards Manager…**
 7. Search for **ESP8266** and press install button for the **“ESP8266 by ESP8266 Community"**
